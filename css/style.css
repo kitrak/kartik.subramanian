@@ -14,7 +14,6 @@ body {
 	background-image: url('../images/krabi.jpg');
 	will-change: transform;
 	background-attachment: fixed;
-	/* test*/
 }
 
 #fullname {
