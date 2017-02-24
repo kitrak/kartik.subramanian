@@ -1,4 +1,4 @@
-html, body {
+body {
 	margin: 0;
 	border: 0;
 	background-color: #dfe0e5;
@@ -92,7 +92,7 @@ html, body {
 	/*background-position: 50%, 50%;*/
 	background-repeat: no-repeat;
 	/*background-image: url('../images/blarney_grounds_sm.jpg');*/
-	background-image: url('../images/blarney_grounds_med.jpg');
+	background-image: url('../images/kylemore_abbey.jpg');
 	/*border: 1px solid red;*/
 	background-attachment: fixed;
 }
